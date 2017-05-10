@@ -22,6 +22,16 @@ These are notes from all of the sessions I went to.
     One of the things that makes Angular so powerful is all of the tooling that it comes with. One piece of tooling is the Angular Mobile Toolkit and how it helps you easily setup Progressive Web Apps. PWAs will help you create an offline first experience, so that even users with little or no connectivity can experience your web app.
     
     In this talk we will talk about the basics of what makes a PWA, and go through the steps of implementing a service worker. We will tie it all together with the Angular Mobile Toolkit.
+1. **[Dynamic Directives](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/dynamic-directives/dynamic-directives.md)** - Peter Pavlovich ([@ppavlovich](https://twitter.com/ppavlovich) | [/pavlovich](https://github.com/pavlovich))   
+    _Part 2: Taking directives to the next level_   
+    Directives are, arguably, one of the most attractive features of Angular. But much of their power goes unused by most developers. Dynamic templates, scope isolation, and powerful, flexible compilation are all tools the savvy Angular developer needs to master.
+    
+    In this session, we will build on your basic understanding of Angular directives and explore the more complex and powerful options available to directive authors. We will discover and explain the use of some of the more powerful but often overlooked or hidden features that make directives such an indispensable part of the Angular framework.
+    
+    From dynamically generated templates to isolating your scope to proper use of pre, post and linking functions, if you write directives, you will not want to miss this opportunity to master these capabilities.
 1. **[]()** - ? ([]() | []())   
     __   
     TBC
+
+## Slides
+All slides in this repository were included with permission of their respective authors. All slide authors retain the copyright for their slides.
