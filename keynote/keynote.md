@@ -27,7 +27,7 @@
 * Animations package removed from `@angular/core`.
 * `<template>` is now `<ng-template`.
 * `*ngIf` supports an `else` condition now.
-   * `*ngIf="<condition>; else <else>"`
+   * `*ngIf="<condition>; else <else-template>"`
 * New `titleCase` pipe ("pipes" are Angular 1 "filters").
 * Some improvements to HTTP and template overrides.
 * New Meta service to handle meta tags.

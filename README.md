@@ -29,6 +29,14 @@ These are notes from all of the sessions I went to.
     In this session, we will build on your basic understanding of Angular directives and explore the more complex and powerful options available to directive authors. We will discover and explain the use of some of the more powerful but often overlooked or hidden features that make directives such an indispensable part of the Angular framework.
     
     From dynamically generated templates to isolating your scope to proper use of pre, post and linking functions, if you write directives, you will not want to miss this opportunity to master these capabilities.
+1. **[Advanced State Management with Redux and ngrx](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/advanced-state-management/advanced-state-management.md)** - Gerard Sans ([@gerardsans](https://twitter.com/gerardsans) | [/gsans](https://github.com/gsans))   
+    _Angular 4+_   
+    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/advanced-state-management/advanced-state-management.pdf)   
+    Redux is an architecture made famous by Facebook and React. It is based on Flux and Elm so it provides a solid base to create complex applications.
+    
+    In this talk we are going to use a basic application to showcase Redux while using Angular and ngrx/store. Finally we will cover asynchronous scenarios with ngrx/effects.
+
+### Thursday
 1. **[]()** - ? ([]() | []())   
     __   
     TBC
