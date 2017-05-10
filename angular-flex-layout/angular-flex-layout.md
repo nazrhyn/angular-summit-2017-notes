@@ -1,5 +1,7 @@
 # Angular Flex Layout
-https://github.com/angular/flex-layout
+https://github.com/angular/flex-layout   
+http://cssreference.io/flexbox/   
+https://gitter.im/angular/flex-layout
 * Integrates flexbox layout into Angular.
 * Combines Flexbox CSS and mediaQuery.
 * Attempts to address some of the issues with manual application of flexbox.
