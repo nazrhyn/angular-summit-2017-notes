@@ -1,7 +1,7 @@
 # Keynote
-* There is no semver? (Even though this guy says it is.)
+* There is no server? (Even though this guy says it is.)
    * Anything higher than 1.x is all "Angular".
-   * "Breakin change" is being taken very seriously; even something that becomes a warning that wasn't is breaking.
+   * "Breaking change" is being taken very seriously; even something that becomes a warning that wasn't is breaking.
    * Moving to a modern staggered release schedule.
       * Patches every week.
       * 3 minor releases.
