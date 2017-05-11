@@ -44,7 +44,7 @@ These are notes from all of the sessions I went to.
     State management is essential in large scale Single Page Applications-it helps keep code easy to learn and debug. In this talk we will introduce the concept of Redux and show how Redux can be used to managed state in Angular.
     
 1. **[Implementing Inter-component Communication in Angular 4](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/inter-component-communication/inter-component-communication.md)** - Yakov Fain ([@yfain](https://twitter.com/yfain) | [/yfain](https://github.com/yfain))   
-    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/inter-component-communication/inter-component-communication.pdf)
+    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/inter-component-communication/inter-component-communication.pdf)   
     Angular is a component-based framework with a well-defined API for passing data to and getting data from a component. Any application is a tree of components that often need to communicate with each other.
     
     In this presentation, you'll see how to create reusable application components that can exchange data with each other in a loosely-coupled manner. You'll see how components can communicate via a common parent or via an injectable service. You'll see how to pass data using the router, input and output parameters, events and callbacks. You'll also learn how to use projection to pass HTML fragments to a component's template. You'll see how to pass parameters to routes. We'll also touch upon the incorporation of the third-party JavaScript libraries into an Angular 4 app.
@@ -66,6 +66,7 @@ These are notes from all of the sessions I went to.
     We will wrap up with valuable tips on maintaining our app, updating it and finally submitting it to the Mac and Window App Stores.
 
 1. **[Angular Material](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/angular-material/angular-material.md)** - Christina Kayastha ([@christikaes](https://twitter.com/christikaes) | [/christinakayastha](https://github.com/christinakayastha))   
+    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/angular-material/angular-material.pdf)   
     One of the things that makes Angular so powerful is all of the tooling that it comes with. AngularMaterial is a UI Component Library that makes it easy to build a nice looking app very easily. In this talk we will explore how to setup and use AngularMaterial in your Angular apps.
     
     We will talk about some Material Design guiding principles, and see how AngularMaterial makes incorporating these easy! Get ready to skin your app with some awesome, clean, and stunning components!
