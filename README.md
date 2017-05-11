@@ -56,9 +56,19 @@ These are notes from all of the sessions I went to.
     
     We'll start with creating a simple NodeJS server, and then will enable it to handle HTTP requests from an Angular app. Then you'll see how to wrap a service into an observable stream. Finally, we'll teach our server to perform a data push to an Angular client using the WebSocket protocol.
     
-1. **[]()** - ? ([]() | []())   
-    __   
-    TBC
+1. **[Angular on the Desktop with Electron](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/desktop-angular-with-electron/desktop-angular-with-electron.md)** - Troy Miles ([@therockncoder](https://twitter.com/therockncoder) | [/rockncoder](https://github.com/Rockncoder))   
+    “Electron” is the secret sauce used by startups and billion dollar companies to create cross-platform desktop apps. It lies at the heart of favorite apps like Atom, Slack, Visual Studio Code, Ionic Lab, and GitBook. Electron is an open source project from GitHub.
+    
+    In this session, we walk through developing an Angular with Electron. We'll use the command line tools to create our app. Walk through the development workflow of adding features and debugging our code. And then we will show our app running on Linux, MacOS, and Windows.
+    
+    Since Electron includes the rendering engine of Chromium, CSS animations, and high-speed graphics are a breeze. We demo both animations and D3.js running in our cross-platform app.
+    
+    We will wrap up with valuable tips on maintaining our app, updating it and finally submitting it to the Mac and Window App Stores.
+
+1. **[Angular Material](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/angular-material/angular-material.md)** - Christina Kayastha ([@christikaes](https://twitter.com/christikaes) | [/christinakayastha](https://github.com/christinakayastha))   
+    One of the things that makes Angular so powerful is all of the tooling that it comes with. AngularMaterial is a UI Component Library that makes it easy to build a nice looking app very easily. In this talk we will explore how to setup and use AngularMaterial in your Angular apps.
+    
+    We will talk about some Material Design guiding principles, and see how AngularMaterial makes incorporating these easy! Get ready to skin your app with some awesome, clean, and stunning components!
 
 ## Slides
 All slides in this repository were included with permission of their respective authors. All slide authors retain the copyright for their slides.
