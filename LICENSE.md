@@ -1,3 +1,1 @@
-I, Christopher Harwood, relinquish my copyright to these notes except for any included slides.
-
-Authors of all included slides retain whatever copyright they have established for those slides.
+I, Christopher Harwood, place these notes into the public domain, relinquishing my copyright except for any included slides, for which the copyright remains as before for the author of those slides.

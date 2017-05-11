@@ -29,7 +29,7 @@ These are notes from all of the sessions I went to.
     In this session, we will build on your basic understanding of Angular directives and explore the more complex and powerful options available to directive authors. We will discover and explain the use of some of the more powerful but often overlooked or hidden features that make directives such an indispensable part of the Angular framework.
     
     From dynamically generated templates to isolating your scope to proper use of pre, post and linking functions, if you write directives, you will not want to miss this opportunity to master these capabilities.
-1. **[Advanced State Management with Redux and ngrx](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/advanced-state-management/advanced-state-management.md)** - Gerard Sans ([@gerardsans](https://twitter.com/gerardsans) | [/gsans](https://github.com/gsans))   
+1. **[Advanced State Management With Redux and ngrx](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/advanced-state-management/advanced-state-management.md)** - Gerard Sans ([@gerardsans](https://twitter.com/gerardsans) | [/gsans](https://github.com/gsans))   
     _Angular 4+_   
     **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/advanced-state-management/advanced-state-management.pdf)   
     Redux is an architecture made famous by Facebook and React. It is based on Flux and Elm so it provides a solid base to create complex applications.
@@ -37,6 +37,17 @@ These are notes from all of the sessions I went to.
     In this talk we are going to use a basic application to showcase Redux while using Angular and ngrx/store. Finally we will cover asynchronous scenarios with ngrx/effects.
 
 ### Thursday
+1. **[Angular Redux](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/angular-redux/angular-redux.md)** - Christina Kayastha ([@christikaes](https://twitter.com/christikaes) | [/christinakayastha](https://github.com/christinakayastha))   
+    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/angular-mobile.toolkit/angular-mobile.toolkit.pdf)   
+    Angular Redux is a great library that provides redux bindings for state management in Angular.
+    
+    State management is essential in large scale Single Page Applications-it helps keep code easy to learn and debug. In this talk we will introduce the concept of Redux and show how Redux can be used to managed state in Angular.
+    
+1. **[Implementing Inter-component Communication in Angular 4](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/inter-component-communication/inter-component-communication.md)** - Yakov Fain ([@yfain](https://twitter.com/yfain) | [/yfain](https://github.com/yfain))   
+    Angular is a component-based framework with a well-defined API for passing data to and getting data from a component. Any application is a tree of components that often need to communicate with each other.
+    
+    In this presentation, you'll see how to create reusable application components that can exchange data with each other in a loosely-coupled manner. You'll see how components can communicate via a common parent or via an injectable service. You'll see how to pass data using the router, input and output parameters, events and callbacks. You'll also learn how to use projection to pass HTML fragments to a component's template. You'll see how to pass parameters to routes. We'll also touch upon the incorporation of the third-party JavaScript libraries into an Angular 4 app.
+    
 1. **[]()** - ? ([]() | []())   
     __   
     TBC

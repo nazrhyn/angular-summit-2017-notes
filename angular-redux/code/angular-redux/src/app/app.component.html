@@ -1,0 +1,7 @@
+<h1>
+	<!-- The pipe to async will automatically watch the observable and update the value from that. -->
+	<span id="counter" style="font-size: 50px; font-family: Consolas, monospace;">{{ count$ | async }}</span>
+	<br>
+	<button (click)="increment()">+</button>
+	<button (click)="decrement()">-</button>
+</h1>
