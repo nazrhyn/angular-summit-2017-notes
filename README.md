@@ -44,9 +44,17 @@ These are notes from all of the sessions I went to.
     State management is essential in large scale Single Page Applications-it helps keep code easy to learn and debug. In this talk we will introduce the concept of Redux and show how Redux can be used to managed state in Angular.
     
 1. **[Implementing Inter-component Communication in Angular 4](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/inter-component-communication/inter-component-communication.md)** - Yakov Fain ([@yfain](https://twitter.com/yfain) | [/yfain](https://github.com/yfain))   
+    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/inter-component-communication/inter-component-communication.pdf)
     Angular is a component-based framework with a well-defined API for passing data to and getting data from a component. Any application is a tree of components that often need to communicate with each other.
     
     In this presentation, you'll see how to create reusable application components that can exchange data with each other in a loosely-coupled manner. You'll see how components can communicate via a common parent or via an injectable service. You'll see how to pass data using the router, input and output parameters, events and callbacks. You'll also learn how to use projection to pass HTML fragments to a component's template. You'll see how to pass parameters to routes. We'll also touch upon the incorporation of the third-party JavaScript libraries into an Angular 4 app.
+    
+1. **[Communication with the server via HTTP and WebSocket protocols](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/http-and-websocket-communication/http-and-websocket-communication.md)** - Yakov Fain ([@yfain](https://twitter.com/yfain) | [/yfain](https://github.com/yfain))   
+    _Angular 4+_   
+    **Slides:** [local](https://github.com/nazrhyn/angular-summit-2017-notes/blob/master/http-and-websocket-communication/http-and-websocket-communication.pdf)   
+    In this session, you'll see how to create an Angular 4 app that can communicate with the servers via a pull (HTTP) and push (WebSocket) modes. We'll program a simple Node server and then will go through a number of code samples that communicate with it using HTTP and WebSocket protocols.
+    
+    We'll start with creating a simple NodeJS server, and then will enable it to handle HTTP requests from an Angular app. Then you'll see how to wrap a service into an observable stream. Finally, we'll teach our server to perform a data push to an Angular client using the WebSocket protocol.
     
 1. **[]()** - ? ([]() | []())   
     __   
